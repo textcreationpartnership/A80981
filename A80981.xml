@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Protector. A Proclamation declaring the right of the Fellowship and Company of English Merchants for Discovering of New Trades (commonly called the Muscovia Company) to the sole fishing for whales upon the coasts of Green-land and Chery-Island, and for restraining and prohibiting of all others.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80981</idno>
+            <idno type="STC">Wing C7146</idno>
+            <idno type="STC">Thomason 669.f.20[78]</idno>
+            <idno type="STC">ESTC R212244</idno>
+            <idno type="EEBO-CITATION">99870886</idno>
+            <idno type="PROQUEST">99870886</idno>
+            <idno type="VID">163494</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80981)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163494)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f20[78])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Protector. A Proclamation declaring the right of the Fellowship and Company of English Merchants for Discovering of New Trades (commonly called the Muscovia Company) to the sole fishing for whales upon the coasts of Green-land and Chery-Island, and for restraining and prohibiting of all others.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills and John Field, Printers to His Highness,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657 [i.e. 1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Given at our palace of Westminster the 9th day of March, in the year of Our Lord, 1657.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Muscovy Company --  Early works to 1800.</term>
+               <term>Whaling --  Greenland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:163494:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <head>OLIVARIVS DEI GRA: REIPVB: ANGLIAE, SCOTIAE, ET HIBERNIAE, &amp;<hi rend="sup">c</hi> PROTECTOR</head>
+               </figure> 
+               <g ref="char:leaf">❧</g> By the Protector. A PROCLAMATION Declaring the right of the FELLOWSHIP and COMPANY of Engliſh Merchants for Diſco<g ref="char:EOLhyphen"/>very of New Trades (commonly called the <hi>Muſcovia Company</hi>) to the ſole Fiſhing for Whales upon the Coaſts of <hi>Green-land</hi> and <hi>Chery-Iſland,</hi> and for reſtraining and prohibiting of all others.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>HEREAS</hi> the Diſcovery of the Iſland called <hi>Chery-Iſland,</hi> and the Conti<g ref="char:EOLhyphen"/>nent of <hi>Green-land,</hi> with the fiſhing for <hi>Whales</hi> upon the Seas and Coaſts thereof, and of the Iſlands and places thereto adjacent (having been made by the Fellowſhip of Engliſh Merchants, for Diſcovery of New Trades commonly called the <hi>Muſcovia Company,</hi> and at their own great charges and hazards) hath by experience been found to be, and is a very great honour and advantage to this Nation and Commonwealth, aſwel in the inlargement of the Dominions and Territories thereof, as alſo in the advancement and increaſe of Navigation, and the entring upon and gaining of the Trade of Whale-fiſhing, whereby great quantities of Whale-Oyl, Whale-Fins and other Commodities are yearly hither imported, to the enriching of this Na<g ref="char:EOLhyphen"/>tion, without the Exportation of any Commodities from hence: And whereas upon conſideration of the Premiſes, and for recompence of the ſaid charge and hazards in the ſaid Diſcovery, and for the encouragement of the ſaid Company and others in time to come, ſeveral Grants and Letters Patents under the Great Seal of <hi>England,</hi> have been heretofore made and granted to the ſaid Fellowſhip, and particularly in the Raign of the late King <hi>Philip</hi> and Queen <hi>Mary,</hi> by which all main Lands, Iſles, Havens, Ports, Creeks and Rivers, by the ſaid Company then diſcovered or to be after diſcovered, were forbidden to be traffiqued unto, or viſited by any the People of this Nation, without the Licenſe of the ſaid Company; Which Letters Patents were afterwards confirmed by Act of Parliament in the Eighth year of the Raign of the late Queen <hi>Elizabeth,</hi> under the penalty of forfeiting the Ships and Goods of any Trading thither without Licenſe, and with addition of divers other Priviledges and Liberties unto the ſaid Fellowſhip and Company. And the late King <hi>James,</hi> for the further encouragement of the ſaid Company, and preventing others to interrupt, diſtract or diſturb their ſaid Trade-fiſhing and Diſcoveries, did, in purſuance of the ſaid Act of Parlia<g ref="char:EOLhyphen"/>ment, and the true intent and meaning of the ſame, by his Letters Patents grant unto the ſaid Fellowſhip, the ſole Trading and Fiſhing in thoſe Seas and places ſo diſcovered by them, And all others were forbidden to fiſh in thoſe Seas and Coaſts, or to ſail thither for Trade without Li<g ref="char:EOLhyphen"/>cenſe of the ſaid Company. Notwithſtanding which, the ſaid Company as We are given to under<g ref="char:EOLhyphen"/>ſtand, have of late received ſome diſturbance by the interloping and intruding of ſome perſons into the ſaid Whale-fiſhing, upon thoſe Seas and Coaſts of <hi>Green-land</hi> and <hi>Chery-Iſland,</hi> whereupon the ſaid Company having addreſſed their humble Petition unto Vs. And the matter having been by Vs re<g ref="char:EOLhyphen"/>ferred to the conſideration of our Privy Council, and fully heard and debated before a Committee of Our ſaid Council, as well on behalf of the ſaid particular Traders, as alſo on behalf of the ſaid Fel<g ref="char:EOLhyphen"/>lowſhip and Company. And the Act of Parliament and the Grants and Charters made to the ſaid Fellowſhip and Company ſhewed forth and read, and the whole matter having been fully conſidered, and thereupon made evident, that ſuch particular fiſhing for Whales upon thoſe Seas, Harbours and Coaſts, by perſons ſeparate from the ſaid Company, and trading therein by themſelves apart, with like power and ſtrength, did not onely diſturb the main Trade of Fiſhing and taking of Whales by the Company, but did tend to the ruine and deſtruction of that Fiſhing, and unleſs prevented, might oc<g ref="char:EOLhyphen"/>caſion Forraigners to come in and gain away that fiſhing and Trading from this Nation, which might tend to the great damage and diſhonour of Vs and this Nation, beſides the particular damage of the ſaid Company. And whereas the whole ſtate of the matter having been again repreſented to Our ſaid Privy Council and by them alſo fully conſidered, it was by them conceived to be for the good of this Nation, to encourage the carrying on of the ſaid Whale-fiſhing and Trade, by the ſaid Fel<g ref="char:EOLhyphen"/>loſhwip and Company onely, and to forbid all others, except ſuch as the ſaid Company ſhould Licenſe, to intrude or meddle therein. And the ſaid Company having further declared, that they appropria<g ref="char:EOLhyphen"/>ting thoſe parts of the ſaid Seas called <hi>Bell Sound,</hi> and <hi>Horn Sound,</hi> with ſuch other places as they ſhall fiſh in, to themſelves onely, were well contented, and do promiſe to grant Licenſes <hi>gratis</hi> to all and e<g ref="char:EOLhyphen"/>very perſon of this Nation and Commonwealth, that ſhall or will but ask or deſire to fiſh for Whales, or Trade in any other of the ſaid Seas, or Coaſts of <hi>Green-land,</hi> or <hi>Chery-Iſland,</hi> where they themſelves fiſh not. We therefore taking the Premiſes into Our conſideration (with the advice of
+<pb facs="tcp:163494:2"/> Our ſaid Privie Council) Do hereby publiſh and Declare, That the whole and ſole Trade and fiſh<g ref="char:EOLhyphen"/>ing for Whales, and abſolute fiſhing in and upon the ſaid Seas, Coaſts and parts of <hi>Green-land,</hi> and <hi>Chery-Iſland,</hi> and in and upon the ſaid <hi>Bell Sound,</hi> and <hi>Horn Sound,</hi> being part of the ſaid Seas and Coaſts, doth and ought to belong unto the ſaid Fellowſhip of <hi>Engliſh</hi> Merchants for diſcovery of New Trades, commonly called the <hi>Muſcovia Company,</hi> and that no other Perſon or Perſons of this <hi>Commonwealth</hi> (other then the ſaid Fellowſhip of <hi>Engliſh</hi> Merchants for diſcovery of New Trades, called the <hi>Muſcovia Company</hi>) ſhall fiſh for Whales in and upon the ſaid Seas, Coaſts of <hi>Green-land</hi> and <hi>Chery-Iſland,</hi> or in and upon the ſaid <hi>Bell Sound</hi> and <hi>Horn Sound,</hi> being part of the ſaid Seas and Coaſts. Yet ſo, as nevertheleſs the ſaid Company, upon their own offer and agreement aforeſaid, be and ſhall be, and are hereby obliged to grant Licenſe and Licenſes, to all and ſingular the People and Sub<g ref="char:EOLhyphen"/>jects of this <hi>Commonwealth,</hi> upon requeſt in that behalf to be made (without delay or paying any thing for the ſame) to fiſh for Whales, or trade or fiſh in all or any other parts or places, of the ſaid Seas or Coaſts of <hi>Greenland</hi> and <hi>Chery-Iſland,</hi> Except the Harbours and places of <hi>Bell Sound</hi> and <hi>Horn Sound</hi> aforeſaid, or where the ſaid Company ſhall ſet out Ships to fiſh. And We do hereby command, That all perſons whatſoever (other then the ſaid Fellowſhip and Company) do forbear to enter into the ſaid <hi>Bell Sound</hi> or <hi>Horn Sound,</hi> or to fiſh or trade within Three Leagues of either of them, but clearly and abſolutely leave the ſaid <hi>Bell Sound</hi> and <hi>Horn Sound,</hi> and all the ſole and whole fiſhing and trading thereof, unto the ſaid Fellowſhip and Company, and their Ships and Agents, and ſuch as ſhall be ſet forth, hired or imployed by them, without making any diſturbance or interruption, or giving the ſaid Company or their Ships or Veſſels, any impediment or hinderance therein, under pain of Our high diſpleaſure, and ſuch other pains and penalties as by the Laws of this Land may be inflicted upon them for their diſobedience and contempt therein, Leaving all other the People and Subjects of this <hi>Commonwealth</hi> free notwithſtanding, to take Licenſes from the ſaid Company to trade or fiſh for Whales or otherwiſe, in and upon all other of the ſaid Seas, Coaſts and places, Except the ſaid <hi>Bell Sound</hi> and <hi>Horn Sound,</hi> and ſuch other place of <hi>Green-land,</hi> as the ſaid Fellowſhip or their Agents ſhall fiſh in, as aforeſaid. And We do hereby further will and command, aſwel Our Generals at Sea, Admirals of Our Fleet, Vice-Admirals, Commanders of Squadrons, and other Comman<g ref="char:EOLhyphen"/>ders, Captains and Officers whatſoever, of any Our Ships, as alſo Our Iudges of the High Court of Admiralty of <hi>England,</hi> and all other Our Officers and Miniſters, in their ſeveral places to be aiding and aſſiſting, unto the ſaid Fellowſhip and Company, and all ſuch as they ſhall ſet out and imploy in their ſaid ſole Trade and fiſhing, and in hindring all others hereby forbidden to uſe the ſaid Trade and fiſhing, otherwiſe then as is before mentioned. And likewiſe to be aiding and aſſiſting unto the ſaid Fellowſhip and Company and their ſaid A<g ref="char:EOLhyphen"/>gents, in doing and executing of all and ſingular the premiſes. And laſtly, We do hereby charge and Command the ſaid Fellowſhip and Company, That in all Ships and Veſſels which ſhall from time to time be ſent out by them, or imployed under them, into or in the Seas and parts aforeſaid, they do imploy for Harpineers, Steerſmen and Mariners, the People and Subjects of this Common<g ref="char:EOLhyphen"/>wealth, and no other.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Palace of <hi>Weſtminſter</hi>
+                  </hi> 
+                  <date>
+                     <hi>the 9th day of <hi>March,</hi> in the year of Our Lord, 1657.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed by <hi>Henry Hills</hi> and <hi>John Field,</hi> Printers to His Highneſs, 1657.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
